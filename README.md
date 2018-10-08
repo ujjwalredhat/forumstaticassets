@@ -1,2 +1,2 @@
 # forumstaticassets
-Static Assets for Forum Live Demo
+Staticassets for Forum demo
